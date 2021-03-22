@@ -1,0 +1,29 @@
+enum Operand {
+  ZERO,
+  ONE,
+  TWO,
+  THREE,
+  FOUR,
+  FIVE,
+  SIX,
+  SEVEN,
+  EIGHT,
+  NINE,
+  DOT,
+}
+
+enum Operator {
+  PERCENTAGE,
+  DIVIDE_ONE,
+  SQUARE,
+  SQUARE_ROOT,
+  DIVISION,
+  MULTIPLY,
+  ADD,
+  SUBSTRACT,
+  EQUAL,
+  PLUS_OR_MINUS,
+  CLEAR,
+  CLEAR_ENTRY,
+  BACKSPACE,
+}
